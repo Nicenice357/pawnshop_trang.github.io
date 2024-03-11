@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;600;700&display=swap');
+body{
+  font-family: "Prompt", sans-serif !important;
+  background-color: #fff !important;
+
+}
+
+.nav_font_400{
+  font-weight: 400 !important;
+}
+
+.nav_font_300{
+  font-weight: 300!important;
+}
+
+.nav_font_600{
+  font-weight: 600 !important;
+}
+
+.nav_font_700{
+  font-weight: 700 !important;
+}
+
+.font-white{
+  color: #fff;
+}
+
+.remove-link {
+  text-decoration: none;
+  color: #fff;
+}
+
+.slider-img{
+  /* width: 100% !important; */
+  /* height: 100% !important; */
+}
+/* .slider_section .slider_container .slider-img{
+  text-align: center !important;
+  justify-content: center;
+  border: solid red;
+} */
+
+.slider_section .img-box2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 45px;
+}
+.slider_section .img-box2 img {
+  height: auto;
+  width: 90%;
+}
